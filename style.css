@@ -1,7 +1,7 @@
 :root {
     --very-dark-gray: hsl(115, 93%, 49%);
     --dark-gray: hsl(107, 94%, 49%);
-    --white: rgb(140, 139, 139);
+    --white: rgb(243, 243, 243);
     --blue: #5c5b62;
 }
 
@@ -98,7 +98,7 @@ button[type="submit"]:hover {
 .field-name {
     font-size: .7rem;
     font-weight: 700;
-    color: var(--dark-gray);
+    color: limegreen;
     text-transform: uppercase;
     letter-spacing: 1.2px;
 }
